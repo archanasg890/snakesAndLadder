@@ -1,0 +1,22 @@
+{
+  "snakes": [
+    { "top": 32, "bottom":  10 },
+    { "top": 36, "bottom":  6 },
+    { "top": 48, "bottom":  26 },
+    { "top": 63, "bottom":  18 },
+    { "top": 88, "bottom":  24 },
+    { "top": 95, "bottom":  35 },
+    { "top": 97, "bottom":  78 }
+  ],
+  "ladders" : [
+    { "top": 38, "bottom":  2 },
+    { "top": 14, "bottom":  4 },
+    { "top": 30, "bottom":  8 },
+    { "top": 42, "bottom":  21 },
+    { "top": 67, "bottom":  50 },
+    { "top": 76, "bottom":  28 },
+    { "top": 92, "bottom":  71 },
+    { "top": 99, "bottom":  80 }
+  ],
+  "players": 2
+}
