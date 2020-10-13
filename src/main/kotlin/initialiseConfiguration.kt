@@ -17,5 +17,6 @@ data class BoardObjectConfig(val top: Int, val bottom: Int)
 data class Configuration(
     val players: Int,
     val snakes: List<BoardObjectConfig>,
-    val ladders: List<BoardObjectConfig>
+    val ladders: List<BoardObjectConfig>,
+    val crookedDice: Boolean
 )
